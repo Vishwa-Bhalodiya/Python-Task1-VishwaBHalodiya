@@ -23,8 +23,9 @@ A Django project with an enhanced **SuperAdmin** interface that allows administr
 ## Setup & How to Run
 Step 1: Navigate to the Project Directory
 ```bash
-cd "C:\Users\DC\OneDrive\Desktop\SuperAdmin for Django final\SuperAdmin for Django\mysite"
+cd "C:\Users\Your_Path\SuperAdmin for Django final\SuperAdmin for Django\mysite"
 ```
+- Make sure to replace "Your_Path" with the correct path where your Django project is located on your system.
 
 Step 2: Install Required Dependencies
 ```bash
